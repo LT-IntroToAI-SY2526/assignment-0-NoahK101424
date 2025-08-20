@@ -10,15 +10,15 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+[The difference between Git and Github is Git is a distributed Version Control System (VCS). This means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. This makes it easier for groups working on the same project. On the other hand, Github is a w way to use the same power of Git all online wit an easy-to-use interface. Git is the language and Github is the space you apply Git.]
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+[Committing and pushing are how you can add the changes you made on your local machine to the remote repository in Github. For example, you commit by making any change to your project. Then, once you have that you can use the push command to add all those changes to your remote repository. All in all, committing is the action of making a change on your local machine, while pushing solidifies that action to the remote repository in Github.]
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+[A repository is where your project work happens. They contain READMEs, which is a way to send information to other people about your project such as why its useful or instructions on how to use it.]
 
 ---
 
