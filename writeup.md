@@ -26,7 +26,7 @@ All answers can be found in the README.md file
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+[https://github.com/NoahK101424/NoahK101424]
 
 ---
 
@@ -34,7 +34,7 @@ All answers can be found in the README.md file
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+[I am SO excited to learn about AI and how it works. I was always interested in AI since it came out, especially systmes like chatgpt. This is the first time that I am using git and github, and so far its been a pretty fun expereinece learning about how it works. I hope that I will learn a lot more througout the year!]
 
 ---
 
